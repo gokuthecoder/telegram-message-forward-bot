@@ -1,0 +1,55 @@
+{
+  "name": "new-folder",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "pm2 start index.js --name 'forwarder-bot' --log ./forwarder-bot.log"
+  },
+  "engines": {
+    "node": "20.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokuthecoder/telegram_message_forwarder"
+  },
+  "keywords": [
+    "telegram_message_forwarder",
+    "github",
+    "github gokuthecoder",
+    "telegram",
+    "message-forwarder",
+    "gokuthecoder",
+    "homelander",
+    "file-forwarder",
+    "file-sender",
+    "file-receiver",
+    "file-manager",
+    "file",
+    "folder",
+    "new",
+    "node",
+    "js",
+    "javascript",
+    "express"
+  ],
+  "author": "gokuthecoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokuthecoder/telegram_message_forwarder/issues"
+  },
+  "homepage": "https://github.com/gokuthecoder/telegram_message_forwarder#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "input": "^1.0.1",
+    "moment-timezone": "^0.5.45",
+    "mongoose": "^8.2.0",
+    "node-telegram-bot-api": "^0.64.0",
+    "telegraf": "^4.16.3",
+    "telegram": "^2.19.20",
+    "winston": "^3.14.1"
+  }
+}

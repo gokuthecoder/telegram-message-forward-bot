@@ -1,0 +1,920 @@
+Received /start command from chatId: 7332696018
+[2024-08-11 16:26:00] INFO: Starting bot process
+[33m[2024-08-11T16:26:00.508] [INFO] - [Running gramJS version 2.19.19][0m
+server listening at port: 5020
+[33m[2024-08-11T16:26:00.526] [INFO] - [Connecting to 149.154.175.52:80/TCPFull...][0m
+[2024-08-11 16:26:00] INFO: Starting bot process
+[33m[2024-08-11T16:26:00.886] [INFO] - [Connection to 149.154.175.52:80/TCPFull complete!][0m
+[33m[2024-08-11T16:26:00.888] [INFO] - [Using LAYER 174 for initial connect][0m
+You should now be connected.
+1AQAOMTQ5LjE1NC4xNzUuNTIBu2puqduT3QXORddHIX50GkRvB9PQHoPYnDnuN3jlwP1dvlyv4q7Hyn1Mbb9QBTBnAplu97Kv2pJl2gU3snxX7XM0Z36yNKURAZQHbsMGUEOJ9d2gVDrVmKUEyR2k6jPFf2HA+rkiX9zbYedrKSw6oynIl/ACAJirI4OK5MtTPvSyeTUhOGAwQO0Eyrlzq9ExNMzsLHBhbCK14z1UGHna0ovAfwRtn6QqTPiDsda3twaETK3lVpThxWYM30TtLJz8RAUglbDNP2fZJfsebd6ERaw74meTS/mUFqSe+nCuEbH/bC3OjcNcJ6Yrxd/pbutdrtfT9LJ8QZ82CWMxfVBmX+c=
+{ source: Integer { value: -1475473897681984283n } }
+{ source: Integer { value: -8025446140761569769n } }
+{
+  CONSTRUCTOR_ID: 1291114285,
+  SUBCLASS_OF_ID: 1198308914,
+  className: 'MessageMediaDocument',
+  classType: 'constructor',
+  flags: 1,
+  nopremium: false,
+  spoiler: false,
+  video: false,
+  round: false,
+  voice: false,
+  document: {
+    CONSTRUCTOR_ID: 2413085912,
+    SUBCLASS_OF_ID: 555739168,
+    className: 'Document',
+    classType: 'constructor',
+    flags: 1,
+    id: Integer { value: 5026141093951964083n },
+    accessHash: Integer { value: -1486377757932233412n },
+    fileReference: <Buffer 06 00 00 00 00 82 9b cf ac 00 00 00 08 66 b8 98 c4 39 35 70 eb 45 6c c8 20 e4 a4 e0 4f e8 4c ed 9d>,
+    date: 1723344543,
+    mimeType: 'image/png',
+    size: Integer { value: 18181n },
+    thumbs: [ [Object], [Object] ],
+    videoThumbs: null,
+    dcId: 1,
+    attributes: [ [Object], [Object] ]
+  },
+  altDocument: null,
+  ttlSeconds: null
+}
+[ 'DocumentAttributeImageSize', 'DocumentAttributeFilename' ]
+Skipping message with ID 8 as it's not a Photo .
+{
+  CONSTRUCTOR_ID: 1766936791,
+  SUBCLASS_OF_ID: 1198308914,
+  className: 'MessageMediaPhoto',
+  classType: 'constructor',
+  flags: 1,
+  spoiler: false,
+  photo: {
+    CONSTRUCTOR_ID: 4212750949,
+    SUBCLASS_OF_ID: 3581324060,
+    className: 'Photo',
+    classType: 'constructor',
+    flags: 0,
+    hasStickers: false,
+    id: Integer { value: 5026141094408203379n },
+    accessHash: Integer { value: -5688657305709219310n },
+    fileReference: <Buffer 06 00 00 00 00 82 9b cf ac 00 00 00 09 66 b8 98 ce e8 35 b7 31 62 20 37 b2 ea 86 4a fc 2a 08 57 25>,
+    date: 1723344561,
+    sizes: [ [Object], [Object], [Object], [Object] ],
+    videoSizes: null,
+    dcId: 1
+  },
+  ttlSeconds: null
+}
+[]
+Skipping message with ID 9 as it's not a Photo .
+{
+  CONSTRUCTOR_ID: 1291114285,
+  SUBCLASS_OF_ID: 1198308914,
+  className: 'MessageMediaDocument',
+  classType: 'constructor',
+  flags: 65,
+  nopremium: false,
+  spoiler: false,
+  video: true,
+  round: false,
+  voice: false,
+  document: {
+    CONSTRUCTOR_ID: 2413085912,
+    SUBCLASS_OF_ID: 555739168,
+    className: 'Document',
+    classType: 'constructor',
+    flags: 1,
+    id: Integer { value: 6174901599882712320n },
+    accessHash: Integer { value: 147371327486469844n },
+    fileReference: <Buffer 06 00 00 00 00 82 9b cf ac 00 00 00 0a 66 b8 98 d8 c3 29 7c 6e 2f 75 de 90 a1 f2 0e 04 d0 0f d1 0f>,
+    date: 1723205608,
+    mimeType: 'video/mp4',
+    size: Integer { value: 99443618n },
+    thumbs: [ [Object], [Object] ],
+    videoThumbs: null,
+    dcId: 5,
+    attributes: [ [Object], [Object] ]
+  },
+  altDocument: null,
+  ttlSeconds: null
+}
+[ 'DocumentAttributeVideo', 'DocumentAttributeFilename' ]
+Skipping message with ID 10 as it's not a Photo .
+{
+  CONSTRUCTOR_ID: 1291114285,
+  SUBCLASS_OF_ID: 1198308914,
+  className: 'MessageMediaDocument',
+  classType: 'constructor',
+  flags: 1,
+  nopremium: false,
+  spoiler: false,
+  video: false,
+  round: false,
+  voice: false,
+  document: {
+    CONSTRUCTOR_ID: 2413085912,
+    SUBCLASS_OF_ID: 555739168,
+    className: 'Document',
+    classType: 'constructor',
+    flags: 0,
+    id: Integer { value: 5267099604050006916n },
+    accessHash: Integer { value: 8067228957458843672n },
+    fileReference: <Buffer 06 00 00 00 00 82 9b cf ac 00 00 00 0b 66 b8 98 e2 e8 f2 00 19 65 f6 ca 86 8c 9d 98 94 90 3b 83 35>,
+    date: 1721922510,
+    mimeType: 'application/zip',
+    size: Integer { value: 4194304000n },
+    thumbs: null,
+    videoThumbs: null,
+    dcId: 2,
+    attributes: [ [Object] ]
+  },
+  altDocument: null,
+  ttlSeconds: null
+}
+[ 'DocumentAttributeFilename' ]
+Skipping message with ID 11 as it's not a Photo .
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+{
+  CONSTRUCTOR_ID: 1291114285,
+  SUBCLASS_OF_ID: 1198308914,
+  className: 'MessageMediaDocument',
+  classType: 'constructor',
+  flags: 1,
+  nopremium: false,
+  spoiler: false,
+  video: false,
+  round: false,
+  voice: false,
+  document: {
+    CONSTRUCTOR_ID: 2413085912,
+    SUBCLASS_OF_ID: 555739168,
+    className: 'Document',
+    classType: 'constructor',
+    flags: 1,
+    id: Integer { value: 5264847804236323514n },
+    accessHash: Integer { value: -8917870008574687152n },
+    fileReference: <Buffer 06 00 00 00 00 82 9b cf ac 00 00 00 0d 66 b8 98 f6 a7 b2 07 9a ee 98 54 60 68 f9 4e e0 47 00 0c b7>,
+    date: 1721897510,
+    mimeType: 'video/x-matroska',
+    size: Integer { value: 437585756n },
+    thumbs: [ [Object], [Object] ],
+    videoThumbs: null,
+    dcId: 2,
+    attributes: [ [Object] ]
+  },
+  altDocument: null,
+  ttlSeconds: null
+}
+[ 'DocumentAttributeFilename' ]
+Skipping message with ID 13 as it's not a Photo .
+{
+  CONSTRUCTOR_ID: 1291114285,
+  SUBCLASS_OF_ID: 1198308914,
+  className: 'MessageMediaDocument',
+  classType: 'constructor',
+  flags: 1,
+  nopremium: false,
+  spoiler: false,
+  video: false,
+  round: false,
+  voice: false,
+  document: {
+    CONSTRUCTOR_ID: 2413085912,
+    SUBCLASS_OF_ID: 555739168,
+    className: 'Document',
+    classType: 'constructor',
+    flags: 1,
+    id: Integer { value: 6111393486139821249n },
+    accessHash: Integer { value: -6575260688620411250n },
+    fileReference: <Buffer 06 00 00 00 00 82 9b cf ac 00 00 00 0e 66 b8 99 00 d8 dc 68 f6 3e 91 29 f0 b8 4d 24 cd 31 d7 81 64>,
+    date: 1721361705,
+    mimeType: 'video/mp4',
+    size: Integer { value: 906820n },
+    thumbs: [ [Object], [Object] ],
+    videoThumbs: null,
+    dcId: 5,
+    attributes: [ [Object], [Object], [Object] ]
+  },
+  altDocument: null,
+  ttlSeconds: null
+}
+[
+  'DocumentAttributeVideo',
+  'DocumentAttributeAnimated',
+  'DocumentAttributeFilename'
+]
+Skipping message with ID 14 as it's not a Photo .
+{
+  CONSTRUCTOR_ID: 1291114285,
+  SUBCLASS_OF_ID: 1198308914,
+  className: 'MessageMediaDocument',
+  classType: 'constructor',
+  flags: 1,
+  nopremium: false,
+  spoiler: false,
+  video: false,
+  round: false,
+  voice: false,
+  document: {
+    CONSTRUCTOR_ID: 2413085912,
+    SUBCLASS_OF_ID: 555739168,
+    className: 'Document',
+    classType: 'constructor',
+    flags: 3,
+    id: Integer { value: 5981913244506260278n },
+    accessHash: Integer { value: -5022293664352385010n },
+    fileReference: <Buffer 05 00 00 00 00 82 9b cf ac 00 00 00 0f 66 b8 99 0a c1 01 d3 66 bf 65 5f ea d8 b4 bc 89 da 24 ef d9>,
+    date: 1650482937,
+    mimeType: 'video/mp4',
+    size: Integer { value: 117200n },
+    thumbs: [ [Object] ],
+    videoThumbs: [ [Object] ],
+    dcId: 4,
+    attributes: [ [Object], [Object], [Object] ]
+  },
+  altDocument: null,
+  ttlSeconds: null
+}
+[
+  'DocumentAttributeVideo',
+  'DocumentAttributeAnimated',
+  'DocumentAttributeFilename'
+]
+Skipping message with ID 15 as it's not a Photo .
+null
+[]
+Error in message forwarding: TypeError: Cannot read properties of null (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Error: TIMEOUT
+    at C:\Users\yuvra\Downloads\xen'\node_modules\telegram\client\updates.js:244:85
+    at async _updateLoop (C:\Users\yuvra\Downloads\xen'\node_modules\telegram\client\updates.js:187:17)
+[33m[2024-08-11T16:29:54.166] [INFO] - [Started reconnecting][0m
+[35m[2024-08-11T16:29:54.167] [WARN] - [[Reconnect] Closing current connection...][0m
+[33m[2024-08-11T16:29:54.168] [INFO] - [Disconnecting from 149.154.175.52:80/TCPFull...][0m
+[33m[2024-08-11T16:29:54.169] [INFO] - [Connecting to 149.154.175.52:80/TCPFull...][0m
+[33m[2024-08-11T16:29:54.170] [INFO] - [connection closed][0m
+[33m[2024-08-11T16:29:54.878] [INFO] - [Connection to 149.154.175.52:80/TCPFull complete!][0m
+[33m[2024-08-11T16:29:54.879] [INFO] - [Handling reconnect!][0m
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Updated message ID to 12
+Updated MESSAGE_START_FROM to 12
+undefined
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Received /start command from chatId: 7332696018
+Received /start command from chatId: 7332696018
+[2024-08-11 16:36:33] INFO: Starting bot process
+[33m[2024-08-11T16:36:33.166] [INFO] - [Running gramJS version 2.19.19][0m
+server listening at port: 5020
+[33m[2024-08-11T16:36:33.174] [INFO] - [Connecting to 149.154.175.52:80/TCPFull...][0m
+[2024-08-11 16:36:33] INFO: Starting bot process
+[33m[2024-08-11T16:36:34.518] [INFO] - [Connection to 149.154.175.52:80/TCPFull complete!][0m
+[33m[2024-08-11T16:36:34.519] [INFO] - [Using LAYER 174 for initial connect][0m
+You should now be connected.
+1AQAOMTQ5LjE1NC4xNzUuNTIBu2puqduT3QXORddHIX50GkRvB9PQHoPYnDnuN3jlwP1dvlyv4q7Hyn1Mbb9QBTBnAplu97Kv2pJl2gU3snxX7XM0Z36yNKURAZQHbsMGUEOJ9d2gVDrVmKUEyR2k6jPFf2HA+rkiX9zbYedrKSw6oynIl/ACAJirI4OK5MtTPvSyeTUhOGAwQO0Eyrlzq9ExNMzsLHBhbCK14z1UGHna0ovAfwRtn6QqTPiDsda3twaETK3lVpThxWYM30TtLJz8RAUglbDNP2fZJfsebd6ERaw74meTS/mUFqSe+nCuEbH/bC3OjcNcJ6Yrxd/pbutdrtfT9LJ8QZ82CWMxfVBmX+c=
+{ source: Integer { value: -1475473897681984283n } }
+{ source: Integer { value: -8025446140761569769n } }
+Updated message ID to 8
+Updated MESSAGE_START_FROM to 8
+[ 'DocumentAttributeImageSize', 'DocumentAttributeFilename' ]
+Received /start command from chatId: 7332696018
+Received /start command from chatId: 7332696018
+[2024-08-11 16:36:57] INFO: Starting bot process
+[33m[2024-08-11T16:36:57.718] [INFO] - [Running gramJS version 2.19.19][0m
+server listening at port: 5020
+[33m[2024-08-11T16:36:57.729] [INFO] - [Connecting to 149.154.175.52:80/TCPFull...][0m
+[2024-08-11 16:36:57] INFO: Starting bot process
+[33m[2024-08-11T16:36:58.055] [INFO] - [Connection to 149.154.175.52:80/TCPFull complete!][0m
+[33m[2024-08-11T16:36:58.058] [INFO] - [Using LAYER 174 for initial connect][0m
+You should now be connected.
+1AQAOMTQ5LjE1NC4xNzUuNTIBu2puqduT3QXORddHIX50GkRvB9PQHoPYnDnuN3jlwP1dvlyv4q7Hyn1Mbb9QBTBnAplu97Kv2pJl2gU3snxX7XM0Z36yNKURAZQHbsMGUEOJ9d2gVDrVmKUEyR2k6jPFf2HA+rkiX9zbYedrKSw6oynIl/ACAJirI4OK5MtTPvSyeTUhOGAwQO0Eyrlzq9ExNMzsLHBhbCK14z1UGHna0ovAfwRtn6QqTPiDsda3twaETK3lVpThxWYM30TtLJz8RAUglbDNP2fZJfsebd6ERaw74meTS/mUFqSe+nCuEbH/bC3OjcNcJ6Yrxd/pbutdrtfT9LJ8QZ82CWMxfVBmX+c=
+{ source: Integer { value: -1475473897681984283n } }
+{ source: Integer { value: -8025446140761569769n } }
+[ 'DocumentAttributeImageSize', 'DocumentAttributeFilename' ]
+[]
+[ 'DocumentAttributeVideo', 'DocumentAttributeFilename' ]
+[ 'DocumentAttributeFilename' ]
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'Photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:384:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[ 'DocumentAttributeFilename' ]
+[
+  'DocumentAttributeVideo',
+  'DocumentAttributeAnimated',
+  'DocumentAttributeFilename'
+]
+[
+  'DocumentAttributeVideo',
+  'DocumentAttributeAnimated',
+  'DocumentAttributeFilename'
+]
+[]
+Error in message forwarding: TypeError: Cannot read properties of null (reading 'Photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:384:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'Photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:384:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'Photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:384:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[]
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'Photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:384:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-08-11 16:39:52] INFO: Starting bot process
+[2024-08-11 16:41:46] INFO: Starting bot process
+[2024-08-11 16:43:20] INFO: Starting bot process
+[2024-08-11 16:48:15] INFO: Starting bot process
+[2024-08-11 16:49:47] INFO: Starting bot process
+[2024-08-11 16:51:54] INFO: Starting bot process
+[2024-08-11 16:53:43] INFO: Starting bot process
+[2024-08-11 16:54:27] INFO: Starting bot process
+[2024-08-11 16:56:55] INFO: Starting bot process
+Received /start command from chatId: 7332696018
+[2024-08-11 17:00:33] INFO: Starting bot process
+[33m[2024-08-11T17:00:33.807] [INFO] - [Running gramJS version 2.19.19][0m
+Updated message ID to 8
+Updated MESSAGE_START_FROM to 8
+Received /start command from chatId: 7332696018
+Updated message ID to 8
+Updated MESSAGE_START_FROM to 8
+server listening at port: 5020
+[33m[2024-08-11T17:00:33.822] [INFO] - [Connecting to 149.154.175.52:80/TCPFull...][0m
+[2024-08-11 17:00:33] INFO: Starting bot process
+[33m[2024-08-11T17:00:34.214] [INFO] - [Connection to 149.154.175.52:80/TCPFull complete!][0m
+[33m[2024-08-11T17:00:34.216] [INFO] - [Using LAYER 174 for initial connect][0m
+You should now be connected.
+1AQAOMTQ5LjE1NC4xNzUuNTIBu2puqduT3QXORddHIX50GkRvB9PQHoPYnDnuN3jlwP1dvlyv4q7Hyn1Mbb9QBTBnAplu97Kv2pJl2gU3snxX7XM0Z36yNKURAZQHbsMGUEOJ9d2gVDrVmKUEyR2k6jPFf2HA+rkiX9zbYedrKSw6oynIl/ACAJirI4OK5MtTPvSyeTUhOGAwQO0Eyrlzq9ExNMzsLHBhbCK14z1UGHna0ovAfwRtn6QqTPiDsda3twaETK3lVpThxWYM30TtLJz8RAUglbDNP2fZJfsebd6ERaw74meTS/mUFqSe+nCuEbH/bC3OjcNcJ6Yrxd/pbutdrtfT9LJ8QZ82CWMxfVBmX+c=
+{ source: Integer { value: -1475473897681984283n } }
+Received /start command from chatId: 7332696018
+[2024-08-11 17:02:22] INFO: Starting bot process
+[33m[2024-08-11T17:02:22.156] [INFO] - [Running gramJS version 2.19.19][0m
+server listening at port: 5020
+[33m[2024-08-11T17:02:22.162] [INFO] - [Connecting to 149.154.175.52:80/TCPFull...][0m
+[2024-08-11 17:02:22] INFO: Starting bot process
+[33m[2024-08-11T17:02:22.543] [INFO] - [Connection to 149.154.175.52:80/TCPFull complete!][0m
+[33m[2024-08-11T17:02:22.545] [INFO] - [Using LAYER 174 for initial connect][0m
+You should now be connected.
+1AQAOMTQ5LjE1NC4xNzUuNTIBu2puqduT3QXORddHIX50GkRvB9PQHoPYnDnuN3jlwP1dvlyv4q7Hyn1Mbb9QBTBnAplu97Kv2pJl2gU3snxX7XM0Z36yNKURAZQHbsMGUEOJ9d2gVDrVmKUEyR2k6jPFf2HA+rkiX9zbYedrKSw6oynIl/ACAJirI4OK5MtTPvSyeTUhOGAwQO0Eyrlzq9ExNMzsLHBhbCK14z1UGHna0ovAfwRtn6QqTPiDsda3twaETK3lVpThxWYM30TtLJz8RAUglbDNP2fZJfsebd6ERaw74meTS/mUFqSe+nCuEbH/bC3OjcNcJ6Yrxd/pbutdrtfT9LJ8QZ82CWMxfVBmX+c=
+{ source: Integer { value: -1475473897681984283n } }
+{ source: Integer { value: -8025446140761569769n } }
+undefined
+Skipping message with ID 8 as it's not a Photo .
+Photo
+undefined
+Skipping message with ID 10 as it's not a Photo .
+undefined
+Skipping message with ID 11 as it's not a Photo .
+undefined
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+Skipping message with ID 13 as it's not a Photo .
+undefined
+Skipping message with ID 14 as it's not a Photo .
+undefined
+Skipping message with ID 15 as it's not a Photo .
+undefined
+Error in message forwarding: TypeError: Cannot read properties of null (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Received /start command from chatId: 7332696018
+undefined
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Received /start command from chatId: 7332696018
+undefined
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:385:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2024-08-11 17:05:22] INFO: Starting bot process
+[2024-08-11 17:12:52] INFO: Starting bot process
+[2024-08-11 17:14:29] INFO: Starting bot process
+[2024-08-11 17:15:34] INFO: Starting bot process
+[2024-08-11 17:54:47] INFO: Starting bot process
+[2024-08-11 17:57:26] INFO: Starting bot process
+[2024-08-11 17:58:47] INFO: Starting bot process
+[2024-08-11 18:01:33] INFO: Starting bot process
+[2024-08-11 18:04:46] INFO: Starting bot process
+[2024-08-11 18:09:46] INFO: Starting bot process
+[2024-08-11 18:15:40] INFO: Starting bot process
+[2024-08-11 18:40:20] INFO: Starting bot process
+[2024-08-11 18:51:09] INFO: Starting bot process
+[2024-08-11 19:05:15] INFO: Starting bot process
+Received /start command from chatId: 7332696018
+[2024-08-11 19:06:28] INFO: Starting bot process
+[33m[2024-08-11T19:06:28.530] [INFO] - [Running gramJS version 2.19.19][0m
+server listening at port: 5020
+[33m[2024-08-11T19:06:28.537] [INFO] - [Connecting to 149.154.175.52:80/TCPFull...][0m
+[2024-08-11 19:06:28] INFO: Starting bot process
+[33m[2024-08-11T19:06:28.852] [INFO] - [Connection to 149.154.175.52:80/TCPFull complete!][0m
+[33m[2024-08-11T19:06:28.854] [INFO] - [Using LAYER 174 for initial connect][0m
+You should now be connected.
+1AQAOMTQ5LjE1NC4xNzUuNTIBu2puqduT3QXORddHIX50GkRvB9PQHoPYnDnuN3jlwP1dvlyv4q7Hyn1Mbb9QBTBnAplu97Kv2pJl2gU3snxX7XM0Z36yNKURAZQHbsMGUEOJ9d2gVDrVmKUEyR2k6jPFf2HA+rkiX9zbYedrKSw6oynIl/ACAJirI4OK5MtTPvSyeTUhOGAwQO0Eyrlzq9ExNMzsLHBhbCK14z1UGHna0ovAfwRtn6QqTPiDsda3twaETK3lVpThxWYM30TtLJz8RAUglbDNP2fZJfsebd6ERaw74meTS/mUFqSe+nCuEbH/bC3OjcNcJ6Yrxd/pbutdrtfT9LJ8QZ82CWMxfVBmX+c=
+{ source: Integer { value: -1475473897681984283n } }
+{ source: Integer { value: -8025446140761569769n } }
+undefined
+Skipping message with ID 8 as it's not a Photo .
+Photo
+Received /start command from chatId: 7332696018
+undefined
+Skipping message with ID 10 as it's not a Photo .
+undefined
+undefined
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:383:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+isvideo forwarding : true
+Updated ISVIDEO to true
+Received /start command from chatId: 7332696018
+Received /start command from chatId: 7332696018
+[2024-08-11 19:07:34] INFO: Starting bot process
+[33m[2024-08-11T19:07:35.013] [INFO] - [Running gramJS version 2.19.19][0m
+server listening at port: 5020
+[33m[2024-08-11T19:07:35.023] [INFO] - [Connecting to 149.154.175.52:80/TCPFull...][0m
+[2024-08-11 19:07:35] INFO: Starting bot process
+[33m[2024-08-11T19:07:35.353] [INFO] - [Connection to 149.154.175.52:80/TCPFull complete!][0m
+[33m[2024-08-11T19:07:35.355] [INFO] - [Using LAYER 174 for initial connect][0m
+You should now be connected.
+1AQAOMTQ5LjE1NC4xNzUuNTIBu2puqduT3QXORddHIX50GkRvB9PQHoPYnDnuN3jlwP1dvlyv4q7Hyn1Mbb9QBTBnAplu97Kv2pJl2gU3snxX7XM0Z36yNKURAZQHbsMGUEOJ9d2gVDrVmKUEyR2k6jPFf2HA+rkiX9zbYedrKSw6oynIl/ACAJirI4OK5MtTPvSyeTUhOGAwQO0Eyrlzq9ExNMzsLHBhbCK14z1UGHna0ovAfwRtn6QqTPiDsda3twaETK3lVpThxWYM30TtLJz8RAUglbDNP2fZJfsebd6ERaw74meTS/mUFqSe+nCuEbH/bC3OjcNcJ6Yrxd/pbutdrtfT9LJ8QZ82CWMxfVBmX+c=
+{ source: Integer { value: -1475473897681984283n } }
+{ source: Integer { value: -8025446140761569769n } }
+undefined
+Skipping message with ID 8 as it's not a Photo .
+Photo
+undefined
+undefined
+undefined
+Error in message forwarding: TypeError: Cannot read properties of undefined (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:383:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+undefined
+undefined
+undefined
+undefined
+Error in message forwarding: TypeError: Cannot read properties of null (reading 'photo')
+    at Timeout._onTimeout (C:\Users\yuvra\Downloads\xen'\src\file\auth.forward.js:383:39)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+Stopping the bot...
+Received /start command from chatId: 7332696018
+[2024-08-11 19:09:23] INFO: Starting bot process
+[33m[2024-08-11T19:09:23.080] [INFO] - [Running gramJS version 2.19.19][0m
+server listening at port: 5020
+[33m[2024-08-11T19:09:23.094] [INFO] - [Connecting to 149.154.175.52:80/TCPFull...][0m
+[2024-08-11 19:09:23] INFO: Starting bot process
+[33m[2024-08-11T19:09:23.421] [INFO] - [Connection to 149.154.175.52:80/TCPFull complete!][0m
+[33m[2024-08-11T19:09:23.423] [INFO] - [Using LAYER 174 for initial connect][0m
+You should now be connected.
+1AQAOMTQ5LjE1NC4xNzUuNTIBu2puqduT3QXORddHIX50GkRvB9PQHoPYnDnuN3jlwP1dvlyv4q7Hyn1Mbb9QBTBnAplu97Kv2pJl2gU3snxX7XM0Z36yNKURAZQHbsMGUEOJ9d2gVDrVmKUEyR2k6jPFf2HA+rkiX9zbYedrKSw6oynIl/ACAJirI4OK5MtTPvSyeTUhOGAwQO0Eyrlzq9ExNMzsLHBhbCK14z1UGHna0ovAfwRtn6QqTPiDsda3twaETK3lVpThxWYM30TtLJz8RAUglbDNP2fZJfsebd6ERaw74meTS/mUFqSe+nCuEbH/bC3OjcNcJ6Yrxd/pbutdrtfT9LJ8QZ82CWMxfVBmX+c=
+{ source: Integer { value: -1475473897681984283n } }
+{ source: Integer { value: -8025446140761569769n } }
+undefined
+Skipping message with ID 8 as it's not a Photo .
+Photo
+undefined
+undefined
+undefined
+Skipping message with ID 12 as it's not a Photo .
+undefined
+undefined
+undefined
+undefined
+Skipping message with ID 16 as it's not a Photo .
+undefined
+Skipping message with ID 17 as it's not a Photo .
+undefined
+Skipping message with ID 18 as it's not a Photo .
+undefined
+Skipping message with ID 19 as it's not a Photo .
+undefined
+Skipping message with ID 20 as it's not a Photo .
+undefined
+Skipping message with ID 21 as it's not a Photo .
+undefined
+Skipping message with ID 22 as it's not a Photo .
+undefined
+Skipping message with ID 23 as it's not a Photo .
+undefined
+Skipping message with ID 24 as it's not a Photo .
+undefined
+Skipping message with ID 25 as it's not a Photo .
+undefined
+Skipping message with ID 26 as it's not a Photo .
+Stopping the bot...
+undefined
+Skipping message with ID 27 as it's not a Photo .
+Received /start command from chatId: 7332696018
+Received /start command from chatId: 7332696018
+[2024-08-11 19:12:51] INFO: Starting bot process
+[33m[2024-08-11T19:12:51.815] [INFO] - [Running gramJS version 2.19.19][0m
+server listening at port: 5020
+[33m[2024-08-11T19:12:51.841] [INFO] - [Connecting to 149.154.175.52:80/TCPFull...][0m
+[2024-08-11 19:12:51] INFO: Starting bot process
+[33m[2024-08-11T19:12:52.165] [INFO] - [Connection to 149.154.175.52:80/TCPFull complete!][0m
+[33m[2024-08-11T19:12:52.167] [INFO] - [Using LAYER 174 for initial connect][0m
+You should now be connected.
+1AQAOMTQ5LjE1NC4xNzUuNTIBu2puqduT3QXORddHIX50GkRvB9PQHoPYnDnuN3jlwP1dvlyv4q7Hyn1Mbb9QBTBnAplu97Kv2pJl2gU3snxX7XM0Z36yNKURAZQHbsMGUEOJ9d2gVDrVmKUEyR2k6jPFf2HA+rkiX9zbYedrKSw6oynIl/ACAJirI4OK5MtTPvSyeTUhOGAwQO0Eyrlzq9ExNMzsLHBhbCK14z1UGHna0ovAfwRtn6QqTPiDsda3twaETK3lVpThxWYM30TtLJz8RAUglbDNP2fZJfsebd6ERaw74meTS/mUFqSe+nCuEbH/bC3OjcNcJ6Yrxd/pbutdrtfT9LJ8QZ82CWMxfVBmX+c=
+{ source: Integer { value: -1475473897681984283n } }
+{ source: Integer { value: -8025446140761569769n } }
+undefined
+Skipping message with ID 8 as it's not a Photo .
+Photo
+undefined
+undefined
+undefined
+Skipping message with ID 12 as it's not a Photo .
+undefined
+undefined
+undefined
+undefined
+Skipping message with ID 16 as it's not a Photo .
+undefined
+Skipping message with ID 17 as it's not a Photo .
+undefined
+Skipping message with ID 18 as it's not a Photo .
+undefined
+Skipping message with ID 19 as it's not a Photo .
+undefined
+Skipping message with ID 20 as it's not a Photo .
+undefined
+Skipping message with ID 21 as it's not a Photo .
+undefined
+Skipping message with ID 22 as it's not a Photo .
+undefined
+Skipping message with ID 23 as it's not a Photo .
+undefined
+Skipping message with ID 24 as it's not a Photo .
+undefined
+Skipping message with ID 25 as it's not a Photo .
+undefined
+Skipping message with ID 26 as it's not a Photo .
+undefined
+Skipping message with ID 27 as it's not a Photo .
+[2024-08-11 19:16:32] INFO: Starting bot process
+[2024-08-11 19:17:25] INFO: Starting bot process
+[2024-08-11 19:26:03] INFO: Starting bot process
+[2024-08-11 19:28:46] INFO: Starting bot process
+[2024-08-11 19:31:58] INFO: Starting bot process
+[2024-08-11 19:50:50] INFO: Starting bot process
+[2024-08-11 20:04:56] INFO: Starting bot process
+[2024-08-11 20:06:41] INFO: Starting bot process
+[2024-08-11 20:08:49] INFO: Starting bot process
+[2024-08-11 20:10:55] INFO: Starting bot process
+[2024-08-11 20:11:22] INFO: Starting bot process
+[2024-08-11 20:17:14] INFO: Starting bot process
+[2024-08-11 20:22:36] INFO: Starting bot process
+[2024-08-11 20:37:50] INFO: Starting bot process
+[2024-08-11 20:39:41] INFO: Starting bot process
+[2024-08-11 20:44:18] INFO: Starting bot process
+[2024-08-11 20:45:22] INFO: Starting bot process
+[2024-08-11 20:47:31] INFO: Starting bot process
+[2024-08-11 20:54:00] INFO: Starting bot process
+[2024-08-11 20:54:45] INFO: Starting bot process
+[2024-08-11 20:56:23] INFO: Starting bot process
+[2024-08-11 20:58:34] INFO: Starting bot process
+[2024-08-11 21:01:04] INFO: Starting bot process
+[2024-08-11 21:04:01] INFO: Starting bot process
+[2024-08-11 21:04:42] INFO: Starting bot process
+[2024-08-12 09:04:48] INFO: Starting bot process
+[2024-08-12 09:09:55] INFO: Starting bot process
+[2024-08-12 09:13:58] INFO: Starting bot process
+[2024-08-12 09:19:05] INFO: Starting bot process
+[2024-08-12 09:19:44] INFO: Starting bot process
+[2024-08-12 09:21:59] INFO: Starting bot process
+[2024-08-12 09:31:34] INFO: Starting bot process
+[2024-08-12 09:36:06] INFO: Starting bot process
+[2024-08-12 09:41:52] INFO: Starting bot process
+[2024-08-12 09:56:40] INFO: Starting bot process
+[2024-08-12 09:58:13] INFO: Starting bot process
+[2024-08-12 10:06:00] INFO: Starting bot process
+[2024-08-12 10:07:13] INFO: Starting bot process
+[2024-08-12 10:08:44] INFO: Starting bot process
+[2024-08-12 10:09:29] INFO: Starting bot process
+[2024-08-12 10:10:26] INFO: Starting bot process
+[2024-08-12 10:14:36] INFO: Starting bot process
+[2024-08-12 10:15:42] INFO: Starting bot process
+[2024-08-12 10:17:32] INFO: Starting bot process
+[2024-08-12 10:18:32] INFO: Starting bot process
+[2024-08-12 10:20:15] INFO: Starting bot process
+[2024-08-12 10:28:31] INFO: Starting bot process
+[2024-08-12 10:30:06] INFO: Starting bot process
+[2024-08-12 10:32:04] INFO: Starting bot process
+[2024-08-12 11:13:19] INFO: Starting bot process
+[2024-08-12 11:14:13] INFO: Starting bot process
+[2024-08-12 11:16:44] INFO: Starting bot process
+[2024-08-12 11:17:56] INFO: Starting bot process
+[2024-08-12 11:20:47] INFO: Starting bot process
+[2024-08-12 11:22:46] INFO: Starting bot process
+[2024-08-12 11:30:02] INFO: Starting bot process
+[2024-08-12 11:31:09] INFO: Starting bot process
+[2024-08-12 11:34:12] INFO: Starting bot process
+[2024-08-12 11:35:59] INFO: Starting bot process
+[2024-08-12 11:36:54] INFO: Starting bot process
+[2024-08-12 11:38:39] INFO: Starting bot process
+[2024-08-12 11:39:17] INFO: Starting bot process
+[2024-08-12 11:42:28] INFO: Starting bot process
+[2024-08-12 11:44:25] INFO: Starting bot process
+[2024-08-12 11:46:43] INFO: Starting bot process
+[2024-08-12 11:53:35] INFO: Starting bot process
+[2024-08-12 11:57:29] INFO: Starting bot process
+[2024-08-12 12:01:06] INFO: Starting bot process
+[2024-08-12 12:05:12] INFO: Starting bot process
+[2024-08-12 12:07:01] INFO: Starting bot process
+[2024-08-12 12:08:51] INFO: Starting bot process
+[2024-08-12 12:11:24] INFO: Starting bot process
+[2024-08-12 12:15:05] INFO: Starting bot process
+[2024-08-12 12:18:41] INFO: Starting bot process
+[2024-08-12 13:43:04] INFO: Starting bot process
+[2024-08-12 13:45:56] INFO: Starting bot process
+[2024-08-12 13:47:07] INFO: Starting bot process
+[2024-08-12 13:51:37] INFO: Starting bot process
+[2024-08-12 13:54:28] INFO: Starting bot process
